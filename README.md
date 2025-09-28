@@ -15,7 +15,7 @@ Com modelos que podem se encaixar entre:
 E diferentes gestoes financeiras sendo CapEX para um maior investimento em recursos duráveis com alto investimento inicial 
 e OPEX com gastos em demanda para as assinaturas de serviços programaveis.
 
-Aprofundando mais em certos pontos:
+  Aprofundando mais em certos pontos:
 
 -> Escalabilidade: Permite que os recursos aumentem ou diminuam conforme a demanda, sem necessidade de grandes investimentos em infraestrutura física.
 
@@ -31,7 +31,7 @@ Aprofundando mais em certos pontos:
 
 -> Gerenciabilidade: Ferramentas integradas para monitorar, automatizar e administrar serviços com facilidade.
 
-Os três principais modelos de serviço em nuvem oferecidos pela Azure são:
+  Os três principais modelos de serviço em nuvem oferecidos pela Azure são:
 
 IaaS (Infraestrutura como Serviço): A Azure fornece recursos como máquinas virtuais, redes e armazenamento. 
 O cliente gerencia o sistema operacional, aplicativos e dados. Ideal para quem quer controle total da infraestrutura.
@@ -41,3 +41,13 @@ incluindo sistemas operacionais, bancos de dados e ferramentas de desenvolviment
 
 SaaS (Software como Serviço): A Azure hospeda aplicativos prontos para uso, como o Microsoft 365. 
 O cliente apenas utiliza o software, sem se preocupar com infraestrutura ou manutenção.
+
+  Na Azure, a segurança e a conformidade são responsabilidade compartilhada entre o provedor (Microsoft) e o cliente:
+
+* Microsoft é responsável pela segurança da infraestrutura física, rede, datacenters e serviços básicos da nuvem.
+
+* Cliente é responsável pela configuração correta dos serviços, proteção de dados, controle de acesso e uso seguro dos recursos.
+
+Esse modelo exige que o cliente entenda bem seus deveres para garantir a segurança e conformidade dos seus ambientes na nuvem.
+
+
