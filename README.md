@@ -30,3 +30,14 @@ Aprofundando mais em certos pontos:
 -> Governança: Políticas e controles que garantem o uso responsável e eficiente dos recursos.
 
 -> Gerenciabilidade: Ferramentas integradas para monitorar, automatizar e administrar serviços com facilidade.
+
+Os três principais modelos de serviço em nuvem oferecidos pela Azure são:
+
+IaaS (Infraestrutura como Serviço): A Azure fornece recursos como máquinas virtuais, redes e armazenamento. 
+O cliente gerencia o sistema operacional, aplicativos e dados. Ideal para quem quer controle total da infraestrutura.
+
+PaaS (Plataforma como Serviço): A Azure oferece um ambiente completo para desenvolvimento e hospedagem de aplicações,
+incluindo sistemas operacionais, bancos de dados e ferramentas de desenvolvimento. O cliente foca apenas no código e na lógica do negócio.
+
+SaaS (Software como Serviço): A Azure hospeda aplicativos prontos para uso, como o Microsoft 365. 
+O cliente apenas utiliza o software, sem se preocupar com infraestrutura ou manutenção.
